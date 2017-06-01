@@ -66,7 +66,7 @@
                   <div class="caption">
                     <h3>Living Room</h3>
 
-                    <p align="center"><a href="/" class="btn btn-primary btn-block">Open</a></p>
+                    <p align="center"><a href="switch.php" class="btn btn-primary btn-block">Open</a></p>
                   </div>
                 </div>
               </div>
@@ -76,7 +76,7 @@
                   <div class="caption">
                     <h3>Bed Room</h3>
 
-                    <p align="center"><a href="/" class="btn btn-primary btn-block">Open</a></p>
+                    <p align="center"><a href="switch.php" class="btn btn-primary btn-block">Open</a></p>
                   </div>
                 </div>
               </div>
@@ -86,7 +86,7 @@
                   <div class="caption">
                     <h3>Kitchen</h3>
 
-                    <p align="center"><a href="/" class="btn btn-primary btn-block">Open</a></p>
+                    <p align="center"><a href="switch.php" class="btn btn-primary btn-block">Open</a></p>
                   </div>
                 </div>
               </div>
